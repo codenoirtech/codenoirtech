@@ -23,10 +23,12 @@
 ```typescript
 const codenoirtech = {
   role: "Full-Stack Developer",
-  focus: ["Web Products", "APIs", "Clean Architecture", "DX"],
+  focus: ["Web Products", "APIs", "Clean Architecture", "Developer Experience"],
   experience: "3+ years",
-  currently: "Building scalable backends & polished frontends",
-  funFact: "I turn messy requirements into software people actually enjoy using",
+  stack: ["TypeScript", "Node.js", "React", "PostgreSQL"],
+  currently: "Building scalable backends and interfaces people actually enjoy using",
+  approach: "Turning messy requirements into shipped, working software",
+  funFact: "Debugs faster with lo-fi beats and too much coffee",
 };
 ```
 
